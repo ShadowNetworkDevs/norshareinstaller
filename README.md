@@ -3,7 +3,7 @@ a simple install I made that works on cbooks
 
 How To Use:
 <br>
-Step 0: `apt install systemctl`
+Step 0: `sudo apt install systemctl`
 <br>
 Step 1: `bash <(curl -s https://raw.githubusercontent.com/ShadowNetworkDevs/pufferinstaller/refs/heads/main/codes/norshareinstaller.sh)`
 <br>
