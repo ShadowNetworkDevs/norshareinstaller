@@ -12,3 +12,5 @@ Step 2: `wget https://github.com/playit-cloud/playit-agent/releases/download/v0.
 Step 3: `chmod +x playit-linux-amd64`
 <br> 
 Step 4: `./playit-linux-amd64`
+<br>
+if for some reason it fails run `sudo apt --fix-broken install` and then run steps 0 and 1 again
