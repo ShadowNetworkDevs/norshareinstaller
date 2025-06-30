@@ -1,5 +1,5 @@
 # Norshare Installer
-a simple install I made that works on cbooks
+a simple install I made that works on quite literally any laptop or pc
 
 How To Use:
 <br>
